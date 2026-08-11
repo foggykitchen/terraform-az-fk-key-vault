@@ -1,0 +1,5 @@
+location = "westeurope"
+
+allowed_ip_rules = [
+  "203.0.113.10/32"
+]
