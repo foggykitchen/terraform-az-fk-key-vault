@@ -2,7 +2,7 @@
 
 This repository contains a reusable Terraform / OpenTofu module and progressive examples for deploying Azure Key Vault as the secrets, keys, and certificate management layer in the FoggyKitchen catalog.
 
-It is part of the [FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses-2/) and is designed to compose cleanly with reusable Azure infrastructure modules such as `terraform-az-fk-vnet`, `terraform-az-fk-private-dns`, `terraform-az-fk-private-endpoint`, `terraform-az-fk-managed-identity`, `terraform-az-fk-rbac`, `terraform-az-fk-bastion`, and `terraform-az-fk-compute`.
+It is part of the [FoggyKitchen.com training ecosystem](https://foggykitchen.com/) and is designed to compose cleanly with reusable Azure infrastructure modules such as `terraform-az-fk-vnet`, `terraform-az-fk-private-dns`, `terraform-az-fk-private-endpoint`, `terraform-az-fk-managed-identity`, `terraform-az-fk-rbac`, `terraform-az-fk-bastion`, and `terraform-az-fk-compute`.
 
 Support expectations are documented in [SUPPORT.md](SUPPORT.md).
 
